@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@mikro-orm/core": "^5.0.3",
-    "@mikro-orm/mysql": "^5.0.3",
+    "@mikro-orm/mysql": "^6.4.1",
     "mysql": "^2.14.1"
   }
 }
